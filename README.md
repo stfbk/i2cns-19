@@ -1,8 +1,10 @@
 # i2cns-19
 
-I2C&amp;NS 2019 workshop material
+[Introduction to Computer and Network Security](https://sites.google.com/view/intro2cns/home?authuser=0) 2019 workshop material.
 
-[Course website](https://sites.google.com/view/intro2cns/home?authuser=0)
+Exercises are provided as [jupyter](https://jupyter-notebook.readthedocs.io/en/stable/index.html) notebooks. Those who wish to try out the code in their browser without installing anything on their machine may do so. Those who wish to run code on their own machine will find it easier to copy-and-paste it from notebooks than pdf files.
+
+There are several cryptography libraries, with varying degrees of user-friendliness and capabilities - see for instance this [crypto API comparison](https://www.cl.cam.ac.uk/~rja14/shb17/fahl.pdf). We shall use [cryptography.io](https://cryptography.io/en/latest/hazmat/primitives/cryptographic-hashes/).
 
 ## jupyter
 
@@ -29,11 +31,5 @@ then source ~/.profile
 
 ### Starting the notebook
 
-./env/bin/jupyter notebook
+`./env/bin/jupyter notebook`
 
-
-### Links
-
-[jupyter documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
-
-[markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
