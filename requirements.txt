@@ -1,2 +1,6 @@
+build-essential
+libssl-dev
+libffi-dev
+python-dev
 python3-cryptography == 2.1.*
 
