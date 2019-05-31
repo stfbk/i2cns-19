@@ -40,3 +40,6 @@ or logout and back in.
 
 `./env/bin/jupyter notebook`
 
+I recommend [jupyterthemes](https://github.com/dunovank/jupyter-themes)
+
+`./env/bin/jupyter jt -t chesterish`
