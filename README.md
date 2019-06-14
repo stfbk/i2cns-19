@@ -8,6 +8,10 @@ There are several cryptography libraries, with varying degrees of user-friendlin
 
 ## jupyter
 
+### Running notebooks in the cloud
+
+You can use the free [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/caffeine-elemental/i2cns-19) service (see this [introduction](https://notebooks.azure.com/help/introduction)) to clone this github repo to your projects. You can also use this [binder](https://gke.mybinder.org/v2/gh/caffeine-elemental/i2cns-19/master) container, but it will likely be slower and has a limit on the number of simultaneous connections.
+
 ### Setup on a local linux machine
 
 `apt install python3-pip python3-setuptools python3-venv`
