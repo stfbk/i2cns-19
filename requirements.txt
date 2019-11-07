@@ -2,3 +2,5 @@ cryptography>=2.1.*
 jupyterthemes
 numpy
 scipy
+z3-solver
+pysmt
